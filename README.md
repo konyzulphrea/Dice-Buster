@@ -10,4 +10,6 @@ polarhei@gmail.com
 
 #Tipping: BTC-address: 1HQaXBiPQwwkHAtBfXtt9P9FEFqTKK91pT (https://blockchain.info/address/1HQaXBiPQwwkHAtBfXtt9P9FEFqTKK91pT)
 
-The information is updated on 10 June 2017
+To Start with Please type (The address you seen)/BotAnalyser_OneGo.html
+
+The information is updated on 17 June 2017
