@@ -1,3 +1,8 @@
+#The verion now acts as an actual app, there is one thing missing, I just have figured how, and I will need to fill something, then swapping to the needs,there are more adjustments.
+
+Konyzulphrea (Kenneth CHU)
+5 September 2017
+
 # Dice-Buster
 Some people have claimed what they knew, but I don't fully think so.
 There are many people playing , generally we all lose from these games. Because of personal concerns, I have some idea what if I knew how they built?
