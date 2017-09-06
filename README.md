@@ -10,9 +10,13 @@ polarhei@gmail.com
 
 #Tipping: BTC-address: 1HQaXBiPQwwkHAtBfXtt9P9FEFqTKK91pT (https://blockchain.info/address/1HQaXBiPQwwkHAtBfXtt9P9FEFqTKK91pT)
 
-To Start with Please type (The address you seen)/BotAnalyser_OneGo.html
+To Start with Please type (The address you seen)/index.html
 
-The information is updated on 17 June 2017
+To stude the code, please type https://github.com/konyzulphrea/Dice-Buster/
+
+
+
+The information is updated on 6 September 2017
 
 Additional note is added on 10 July 2017
 
