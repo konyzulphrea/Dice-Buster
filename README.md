@@ -6,9 +6,6 @@ I just found a way, by applying tricks from the talk, we shall get good from it,
 #Contact for enquiry:
 polarhei@gmail.com
 
-#Support: BTC-address: 1M2bCkKAWghqtpR8iMdKLH84sNM1jndxA (https://blockchain.info/address/1M2bCkKAWghqtpR8iMdKLH84sNM1jndxA)
-
-#Tipping: BTC-address: 1HQaXBiPQwwkHAtBfXtt9P9FEFqTKK91pT (https://blockchain.info/address/1HQaXBiPQwwkHAtBfXtt9P9FEFqTKK91pT)
 
 To Start with Please type (The address you seen)/BotAnalyser_OneGo.html
 
